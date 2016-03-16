@@ -1,0 +1,28 @@
+name: davidjstieve
+favicon: null
+layout_spectrum: 0.7738356324844062
+typography_spectrum: 0.2895134459249675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9881288462784141
+  lightness: 0.03942133905366063
+  saturation: 0.8963989838957787
+  rhythmicContrast: 0.9734297404065728
+purpose: []
